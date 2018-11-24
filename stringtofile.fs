@@ -1,5 +1,6 @@
-﻿// Assignment 3
-// Dakota, Andrew, Nathan
+﻿// This program takes in strings seperated by spaces
+ // and writes them to a file
+ 
 
 open System
 
